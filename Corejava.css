@@ -1,0 +1,23 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+.table th{
+	margin-top: 60px;
+	font-family: sans-serif;
+	font-size:20px;
+	width: 200px;
+	margin-right: 350px;
+	border: 2px solid black;
+	box-shadow: 0px 0px 10px grey;
+
+
+}
+.table td{
+       width:300px;
+	border: 2px solid black;
+	box-shadow: 0px 0px 10px grey;
+
+}

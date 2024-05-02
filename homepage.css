@@ -1,0 +1,65 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.navigation-bar{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background-image: linear-gradient(to right, #78634e, #c29d78, #ba824a, #db7814);
+}
+.navbar-brand{
+	font-size: 30px;
+	font-family: Arial Black;
+}
+.q{
+	color: orange;
+	font-size: 60px;
+}
+.tracker{
+	color: black;
+	font-size: 30px;
+}
+.nav-link{
+	font-size: 20px;
+	color: Black !important;
+	font-family: sans-serif;
+	font-weight: bolder;
+}
+.homepageinfo{
+	position: relative;
+	top: 100px;
+	z-index: -4;
+}
+.heading{
+	color: orange;
+	margin: 20px;
+	font-family: Arial Black;
+	font-size: 40px;
+}
+.info{
+	font-size: 20px;
+	padding: 30px;
+	font-weight: bolder;
+}
+.mycaro{
+	width: 700px;
+
+}
+.heading2{
+	font-size:25px ;
+	color: royalblue;
+}
+.courseinfo{
+	margin-left: 100px;
+}
+.courseinfo ul li{
+	font-size: 20px;
+}
+
+/*syllabus-collapse{
+	width:90%;
+	height:100vh;
+}/*
